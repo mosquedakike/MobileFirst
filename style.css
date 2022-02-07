@@ -100,3 +100,23 @@ header img {
     margin-left: 10px;
     background-image: url("./assets/icons/down-arrow.svg");
 }
+
+main{
+    width: 100%;
+    height: auto;
+    background-color: var(--off-white);
+}
+
+.main-exchange-container{
+    width: 100%;
+    height: auto;
+    padding: 80px 80px 30px;
+    text-align: center;
+}
+
+.main-exchanges-container--title{
+    width: 90%;
+    min-width: 288px;
+    max-width: 900px;
+    margin: 0 auto;
+}
